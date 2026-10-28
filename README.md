@@ -1,6 +1,6 @@
  # Student Performance Analyzer
  
-🚀 Live Demo: [Click here to view the app](https://student-performance-analyzer ∙ main ∙ app.py)
+🚀 **Live Demo:** [Click here to view the app](https://student-performance-analyzer-ebnnvtng6gpsthhcfd8ycs.streamlit.app/)
 
 A beginner-friendly Data Science project that analyzes
 student marks and presents results in an interactive dashboard.
