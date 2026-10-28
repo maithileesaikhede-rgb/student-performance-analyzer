@@ -1,4 +1,6 @@
  # Student Performance Analyzer
+ 
+🚀 Live Demo: student-performance-analyzer ∙ main ∙ app.py
 
 A beginner-friendly Data Science project that analyzes
 student marks and presents results in an interactive dashboard.
